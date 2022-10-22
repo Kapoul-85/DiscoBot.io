@@ -1,0 +1,32 @@
+[
+    {
+        "guildID": "xxxxxxxxxxxxxxxxx",
+        "idsalon": {
+            "id": "xxxxxxxxxxxxxxxxx"
+        }
+    },
+    {
+        "guildID": "900389751339774052",
+        "idsalon": {
+            "type": 0,
+            "guild": "900389751339774052",
+            "guildId": "900389751339774052",
+            "parentId": "961639555361034330",
+            "permissionOverwrites": [
+                "900389751339774052",
+                "1020345874683007006"
+            ],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "flags": 0,
+            "id": "1016003303299100783",
+            "name": "¦『💲』shop",
+            "rawPosition": 6,
+            "topic": null,
+            "lastMessageId": "1026880744540340288",
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1662304463935
+        }
+    }
+]

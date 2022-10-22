@@ -1,0 +1,190 @@
+[
+    {
+        "guildID": "1023559629650808883",
+        "logs": {
+            "type": 0,
+            "guild": "1023559629650808883",
+            "guildId": "1023559629650808883",
+            "parentId": "1024388952964219012",
+            "permissionOverwrites": [],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "id": "1024388973755387994",
+            "name": "logs",
+            "rawPosition": 2,
+            "topic": null,
+            "lastMessageId": null,
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1664303763570
+        },
+        "arriver": {
+            "type": 0,
+            "guild": "1023559629650808883",
+            "guildId": "1023559629650808883",
+            "parentId": "1024388806855635016",
+            "permissionOverwrites": [],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "id": "1024388845216727072",
+            "name": "arriver",
+            "rawPosition": 0,
+            "topic": null,
+            "lastMessageId": null,
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1664303732924
+        },
+        "depart": {
+            "type": 0,
+            "guild": "1023559629650808883",
+            "guildId": "1023559629650808883",
+            "parentId": "1024388806855635016",
+            "permissionOverwrites": [],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "id": "1024388881291948093",
+            "name": "depart",
+            "rawPosition": 1,
+            "topic": null,
+            "lastMessageId": null,
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1664303741525
+        },
+        "privateroom": {
+            "type": 4,
+            "guild": "1023559629650808883",
+            "guildId": "1023559629650808883",
+            "parentId": null,
+            "permissionOverwrites": [],
+            "id": "1024389019813019669",
+            "name": "PrivateRoom",
+            "rawPosition": 2,
+            "createdTimestamp": 1664303774551
+        },
+        "ticket": {
+            "type": 4,
+            "guild": "1023559629650808883",
+            "guildId": "1023559629650808883",
+            "parentId": null,
+            "permissionOverwrites": [],
+            "id": "1024389056521568377",
+            "name": "Tickets",
+            "rawPosition": 3,
+            "createdTimestamp": 1664303783303
+        },
+        "colorDanger": "#f90b00",
+        "colorWarn": "#ff7408",
+        "colorBase": "#0816ff",
+        "lien": "https://discord.gg/eyTZFYwf7s",
+        "emoji": "🪄",
+        "role": "1024758302573338726"
+    },
+    {
+        "guildID": "900389751339774052",
+        "logs": {
+            "type": 0,
+            "guild": "900389751339774052",
+            "guildId": "900389751339774052",
+            "parentId": "930492003572129842",
+            "permissionOverwrites": [
+                "900389751339774052",
+                "1020345874683007006"
+            ],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "flags": 0,
+            "id": "1005833112393109596",
+            "name": "logs",
+            "rawPosition": 64,
+            "topic": null,
+            "lastMessageId": "1024680435256668180",
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1659879701470
+        },
+        "arriver": {
+            "type": 0,
+            "guild": "900389751339774052",
+            "guildId": "900389751339774052",
+            "parentId": "961639555361034330",
+            "permissionOverwrites": [
+                "1020345874683007006",
+                "900389751339774052"
+            ],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "flags": 0,
+            "id": "1005817548996104192",
+            "name": "¦『🙂』bienvenue-et-au-revoir",
+            "rawPosition": 2,
+            "topic": null,
+            "lastMessageId": "1025766755605434428",
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1659875990867
+        },
+        "depart": {
+            "type": 0,
+            "guild": "900389751339774052",
+            "guildId": "900389751339774052",
+            "parentId": "961639555361034330",
+            "permissionOverwrites": [
+                "1020345874683007006",
+                "900389751339774052"
+            ],
+            "messages": [],
+            "threads": [],
+            "nsfw": false,
+            "flags": 0,
+            "id": "1005817548996104192",
+            "name": "¦『🙂』bienvenue-et-au-revoir",
+            "rawPosition": 2,
+            "topic": null,
+            "lastMessageId": "1025766755605434428",
+            "rateLimitPerUser": 0,
+            "createdTimestamp": 1659875990867
+        },
+        "privateroom": {
+            "type": 4,
+            "guild": "900389751339774052",
+            "guildId": "900389751339774052",
+            "parentId": null,
+            "permissionOverwrites": [
+                "900389751339774052",
+                "966002874175877210"
+            ],
+            "flags": 0,
+            "id": "900389751339774054",
+            "name": "💬 | communautaire",
+            "rawPosition": 4,
+            "createdTimestamp": 1634740045152
+        },
+        "ticket": {
+            "type": 4,
+            "guild": "900389751339774052",
+            "guildId": "900389751339774052",
+            "parentId": null,
+            "permissionOverwrites": [
+                "1003248322221461554",
+                "900389751339774052",
+                "318312854816161792",
+                "914193338058559521",
+                "1003956639050768384",
+                "946057618433142785",
+                "932695627652038679"
+            ],
+            "flags": 0,
+            "id": "973491698653097994",
+            "name": "Tickets🎫",
+            "rawPosition": 9,
+            "createdTimestamp": 1652168907560
+        },
+        "colorDanger": "#000",
+        "colorWarn": "#ff0000",
+        "colorBase": "#11fc00",
+        "lien": "https://discord.gg/GFNWT6gY4w",
+        "emoji": null
+    }
+]
