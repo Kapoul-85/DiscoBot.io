@@ -6,7 +6,7 @@ const loadEvents = require("./Loaders/loadEvents");
 const token = require("./token.json");
 
 bot.commands = new Discord.Collection();
-bot.login(token.token);
+bot.login(process.env.TOKEN);
 loadCommands(bot);
 loadEvents(bot);
 
